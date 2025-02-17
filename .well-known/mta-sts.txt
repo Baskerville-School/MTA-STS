@@ -1,4 +1,5 @@
 version: STSv1
 mode: enforce
-mx: baskvill-bham-sch-uk.mail.protection.outlook.com
+mx: d241937.a.ess.uk.barracudanetworks.com
+mx: d241937.b.ess.uk.barracudanetworks.com
 max_age: 1814400
